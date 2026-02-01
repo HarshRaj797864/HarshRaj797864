@@ -1,14 +1,120 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">Computer Science Undergraduate with a strong interest in quantitative systems, algorithmic efficiency, and reliable infrastructure.</h3>
+<h3 align="center">
+2nd Year Computer Science Undergraduate | Aspiring Quant Developer • Systems • Infrastructure
+</h3>
 
-- 🌱 I’m currently learning **DevOps**
+<hr/>
 
-- 📫 How to reach me **rajharsh797864@gmail.com**
+<h2>👨‍🎓 About Me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh-raj-320505345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raj-320505345" height="30" width="40" /></a>
+<p>
+🎓 <b>B.Tech in Computer Science Engineering</b> — 2nd Year<br/>
+🏫 IIIT Sri City, India
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p>
+I am a systems-focused Computer Science undergraduate with an <b>aspirational interest in quantitative development</b>.
+I enjoy working at the intersection of <b>algorithms, performance, and infrastructure</b>, where correctness and efficiency
+are first-class concerns.
+</p>
+
+<ul>
+  <li>Strong foundations in data structures & algorithms</li>
+  <li>Interest in low-level systems, computer architecture, and backend engineering</li>
+  <li>Building reliable, scalable systems with clean abstractions</li>
+</ul>
+
+<hr/>
+
+<h2>🧠 Core Interests</h2>
+
+<ul>
+  <li>Quantitative & Performance-Oriented Systems</li>
+  <li>Data Structures & Algorithms</li>
+  <li>Backend Engineering & System Design</li>
+  <li>Operating Systems & Computer Architecture</li>
+  <li>Cloud, DevOps, and Infrastructure</li>
+</ul>
+
+<hr/>
+
+<h2>📌 Featured Projects</h2>
+
+<h3>📈 StockTicker</h3>
+<p>
+A backend system focused on <b>reliability, correctness, and data-driven behavior</b>.
+Designed with production-style concerns such as caching, asynchronous processing,
+and robust API design in mind.
+</p>
+
+<ul>
+  <li>Emphasis on observable system behavior and regression-safe testing</li>
+  <li>Backend-first architecture with scalability considerations</li>
+</ul>
+
+<h3>🧠 MESI Cache Coherence Simulation</h3>
+<p>
+A systems-level project simulating the <b>MESI cache coherence protocol</b> to explore
+multi-core consistency, state transitions, and performance trade-offs.
+</p>
+
+<ul>
+  <li>Focus on correctness, edge cases, and architectural accuracy</li>
+  <li>Strengthened understanding of memory systems and low-level design</li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Technical Skillset</h2>
+
+<h3>💻 Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,matlab" />
+</p>
+
+<h3>🌐 Backend & Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,tailwind" />
+</p>
+
+<h3>🗄️ Databases & Messaging</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb" />
+</p>
+
+<h3>🧰 Systems, Cloud & DevOps</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github" />
+</p>
+
+<hr/>
+
+<h2>🌱 Currently Learning</h2>
+
+<ul>
+  <li>DevOps & Cloud Infrastructure</li>
+  <li>Advanced System Design</li>
+  <li>Performance Engineering & System Internals</li>
+</ul>
+
+<hr/>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/rajharsh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/harsh-raj-320505345">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rajharsh797864@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <i>Focused on building systems where performance, correctness, and clarity come first.</i>
+</p>
