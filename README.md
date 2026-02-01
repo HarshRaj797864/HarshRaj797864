@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">
-2nd Year Computer Science Undergraduate | Aspiring HPC Engineer • Systems • Infrastructure
+2nd Year Computer Science Undergraduate | Aspiring Quant Dev • Systems • Infrastructure
 </h3>
 
 <hr/>
@@ -39,7 +39,7 @@ are first-class concerns.
 
 <h2>📌 Featured Projects</h2>
 
-<h3>📈 StockTicker</h3>
+<h3>📈 <a href="https://github.com/HarshRaj797864/stockTicker">StockTicker</a></h3>
 <p>
 A backend system focused on <b>reliability, correctness, and data-driven behavior</b>.
 Designed with production-style concerns such as caching, asynchronous processing,
@@ -51,15 +51,18 @@ and robust API design in mind.
   <li>Backend-first architecture with scalability considerations</li>
 </ul>
 
-<h3>🧠 MESI Cache Coherence Simulation</h3>
+<h3>🧠 <a href="https://github.com/HarshRaj797864/COALESCE-Hashed-Perceptron-Cache-Replacement-Policy">
+COALESCE: Hashed Perceptron Cache Replacement Policy
+</a></h3>
+
 <p>
-A systems-level project simulating the <b>MESI cache coherence protocol</b> to explore
-multi-core consistency, state transitions, and performance trade-offs.
+A research-oriented systems project exploring a <b>perceptron-based cache replacement policy</b>
+for multicore processors, inspired by modern hardware prediction techniques.
 </p>
 
 <ul>
-  <li>Focus on correctness, edge cases, and architectural accuracy</li>
-  <li>Strengthened understanding of memory systems and low-level design</li>
+  <li>Focus on cache behavior, predictor design, and performance trade-offs</li>
+  <li>Hands-on exploration of computer architecture and memory systems</li>
 </ul>
 
 <hr/>
@@ -93,7 +96,7 @@ multi-core consistency, state transitions, and performance trade-offs.
 <ul>
   <li>Distributed Systems & Microservices Architecture</li>
   <li>Open Source Development & Strategy</li>
-  <li>Hardware-Software Co-Design (ChampSim/C++)</li>
+  <li>Hardware–Software Co-Design (ChampSim / C++)</li>
 </ul>
 
 <hr/>
@@ -110,6 +113,12 @@ multi-core consistency, state transitions, and performance trade-offs.
   <a href="mailto:rajharsh797864@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="assets/mario.gif" alt="Mario Animation" width="600"/>
 </p>
 
 <hr/>
