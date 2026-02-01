@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">
-2nd Year Computer Science Undergraduate | Aspiring Quant Developer • Systems • Infrastructure
+2nd Year Computer Science Undergraduate | Aspiring HPC Engineer • Systems • Infrastructure
 </h3>
 
 <hr/>
@@ -13,14 +13,14 @@
 </p>
 
 <p>
-I am a systems-focused Computer Science undergraduate with an <b>aspirational interest in quantitative development</b>.
-I enjoy working at the intersection of <b>algorithms, performance, and infrastructure</b>, where correctness and efficiency
+I am a systems-focused Computer Science undergraduate with an <b>aspirational interest in high-performance computing</b>.
+I enjoy working at the intersection of <b>algorithms, hardware, and infrastructure</b>, where correctness and efficiency
 are first-class concerns.
 </p>
 
 <ul>
   <li>Strong foundations in data structures & algorithms</li>
-  <li>Interest in low-level systems, computer architecture, and backend engineering</li>
+  <li>Interest in low-level systems and backend engineering</li>
   <li>Building reliable, scalable systems with clean abstractions</li>
 </ul>
 
@@ -29,10 +29,9 @@ are first-class concerns.
 <h2>🧠 Core Interests</h2>
 
 <ul>
-  <li>Quantitative & Performance-Oriented Systems</li>
+  <li>High-Performance Computing (HPC) & Systems</li>
   <li>Data Structures & Algorithms</li>
   <li>Backend Engineering & System Design</li>
-  <li>Operating Systems & Computer Architecture</li>
   <li>Cloud, DevOps, and Infrastructure</li>
 </ul>
 
@@ -92,9 +91,9 @@ multi-core consistency, state transitions, and performance trade-offs.
 <h2>🌱 Currently Learning</h2>
 
 <ul>
-  <li>DevOps & Cloud Infrastructure</li>
-  <li>Advanced System Design</li>
-  <li>Performance Engineering & System Internals</li>
+  <li>Distributed Systems & Microservices Architecture</li>
+  <li>Open Source Development & Strategy</li>
+  <li>Hardware-Software Co-Design (ChampSim/C++)</li>
 </ul>
 
 <hr/>
