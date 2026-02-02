@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">
-2nd Year Computer Science Undergraduate | Aspiring Quant Dev • Systems • Infrastructure
+2nd Year Computer Science Undergraduate | Full Stack Developer | Systems Architect
 </h3>
 
 <hr/>
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-I am a systems-focused Computer Science undergraduate with an <b>aspirational interest in high-performance computing</b>.
+I am a systems-focused Computer Science undergraduate with an <b>interest in high-performance computing, low-level latency</b>.
 I enjoy working at the intersection of <b>algorithms, hardware, and infrastructure</b>, where correctness and efficiency
 are first-class concerns.
 </p>
@@ -116,6 +116,10 @@ for multicore processors, inspired by modern hardware prediction techniques.
   <a href="mailto:rajharsh797864@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://clever-jelly-619ec9.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 </p>
 
 <hr/>
