@@ -116,7 +116,7 @@ for multicore processors, inspired by modern hardware prediction techniques.
   <a href="mailto:rajharsh797864@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://clever-jelly-619ec9.netlify.app/">
+  <a href="https://harshraj-portfolio-2006.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
